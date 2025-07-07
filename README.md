@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/ronak_ukani" target="blank"><img src="https://img.shields.io/twitter/follow/ronak_ukani?logo=twitter&style=for-the-badge" alt="ronak_ukani" /></a> </p>
 
-- 🔭 I’m currently working on [Jetpack Compose](https://github.com/RonakUkani/JetPackComposeSample)
+- 🔭 I’m currently working on [Jetpack Compose - Mobile and TV app](https://github.com/RonakUkani/compose-OTT-Mobile-tv-app)
 
 - 🌱 I’m currently learning **Jetpack Compose, KMM**
 
-- 👯 I’m looking to collaborate on [Jetpack Compose](https://github.com/RonakUkani/JetPackComposeSample)
+- 👯 I’m looking to collaborate on [Jetpack Compose - Mobile and TV app](https://github.com/RonakUkani/compose-OTT-Mobile-tv-app)
 
 - 👨‍💻 All of my projects are available at [github.com/ronakukani](github.com/ronakukani)
 
